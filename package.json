@@ -1,23 +1,24 @@
 {
-    "private": true,
-    "name": "zerotohero",
-    "description": "Nerdpack zerotohero",
-    "version": "0.1.0",
-    "scripts": {
-        "start": "nr1 nerdpack:serve",
-        "test": "exit 0"
-    },
-    "nr1": {
-        "uuid": "f3487c9a-1d92-43f9-81cb-634e0a71cd48"
-    },
-    "dependencies": {
-        "prop-types": "^15.6.2",
-        "react": "^16.6.3",
-        "react-dom": "^16.6.3"
-    },
-    "browserslist": [
-        "last 2 versions",
-        "not ie < 11",
-        "not dead"
-    ]
+  "private": true,
+  "name": "zerotohero",
+  "description": "Nerdpack zerotohero",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "nr1 nerdpack:serve",
+    "test": "exit 0"
+  },
+  "nr1": {
+    "uuid": "ecc6753d-8ec9-4b8f-aeeb-2b97bc7260ec"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "victory": "^34.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not ie < 11",
+    "not dead"
+  ]
 }
